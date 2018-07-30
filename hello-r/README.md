@@ -1,5 +1,5 @@
 # hello-r
-This is a basic hello world R app which loads the *stringr* package to output capitalised text to the console.
+This is a basic hello world R app which loads the *stringr* package to output capitalised text to the console. This was pulled from https://github.com/cloudfoundry/r-buildpack/tree/master/fixtures/simple_packages
 
 After `cf push`, the app will fail but you can view the results using `cf logs <APPNAME> --recent` 
 
